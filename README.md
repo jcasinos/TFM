@@ -1,7 +1,8 @@
-# TFM
+# Trabajo Fin de Máster; Jorge Casinos Buj
 ## Innovación precios y dinámica industrial. Un modelo computacional de dos sectores.
 
-Trabajo Fin de Máster. Máster en Economía, Universidad de Zaragoza, Curso 2017 -2018
+### Máster en Economía, Universidad de Zaragoza, Curso 2017 -2018
+### Directores: Isable Almudí, Francisco Fatás
 
 <p align="center"> <b> Resumen:</b><br> </p>
 
