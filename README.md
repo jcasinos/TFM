@@ -18,6 +18,7 @@ de replicar como propiedades emergentes los hechos estilizados de distintos
 regímenes tecnológicos.
 
 <p align="center"> <b> Abstract:</b><br> </p>
+
 The main objective of this dissertation is to introduce the approach of Evo-
 lutionary Economics to industrial dynamics by using computational models.
 We propose a computation model (ABM) to analyze the coevolution between
@@ -29,4 +30,4 @@ emergent pricing dynamics. The model is able to replicate the stylized facts
 of diferent technological regimes as emergent properties.
 
 
-
+### Conteidos repositorio:
