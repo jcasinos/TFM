@@ -3,8 +3,9 @@
 
 Trabajo Fin de Máster. Máster en Economía, Universidad de Zaragoza, Curso 2017 -2018
 
-<h1><center>Centered text!</center></h1>
-El principal objetivo de esta tesina será introducir el estudio de la dinami-
+<p align="center"> Hola </p>
+
+El principal objetivo de esta tesina será introducir el estudio de la dinámi-
 ca industrial desde la perspectiva de la Economíaa evolutiva empleando mode-
 los computacionales. Para ello se propone un modelo computacional (ABM)
 para analizar la co-evolución entre dos sectores. El Sector 1 produce bienes
