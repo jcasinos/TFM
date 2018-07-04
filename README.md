@@ -6,7 +6,7 @@
 
 <p align="center"> <b> Resumen:</b><br> </p>
 
-El principal objetivo de esta tesina será introducir el estudio de la dinámica industrial desde la perspectiva de la Economíaa evolutiva empleando modelos computacionales. Para ello se propone un modelo computacional (ABM)
+El principal objetivo de esta tesina será introducir el estudio de la dinámica industrial desde la perspectiva de la Economía evolutiva empleando modelos computacionales. Para ello se propone un modelo computacional (ABM)
 para analizar la co-evolución entre dos sectores. El Sector 1 produce bienes
 de capital que son mejorados a través de la innovación. Estos bienes serán
 incorporados por el Sector 2 para producir distintas variedades de un bien
