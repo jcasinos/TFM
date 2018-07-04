@@ -36,7 +36,7 @@ of diferent technological regimes as emergent properties.
 Este repositorio contiene los códigos de Python así como los resultados de las simulaciones que se presentan en el TFM. El repositorio se organiza en las siguientes carpetas:
 
 1. #### Datos Simulaciones: Contiene los resultados de las simulaciones, con la siguiente nomenclatura:
-   - escernario ->
+   - escernario &rarr;
    - escenarioS1 ->
    - escenarioS2 ->
 2. #### Jupyter Notebooks
