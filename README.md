@@ -16,3 +16,5 @@ la economía evolutiva como la capacidad de absorción, la percepción de los
 competidores o las dinámicas emergentes de precios. El modelo será capaz
 de replicar como propiedades emergentes los hechos estilizados de distintos
 regímenes tecnológicos.
+
+<p align="center"> <b> Abstract:</b><br> </p>
