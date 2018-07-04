@@ -44,3 +44,10 @@ Contiene los resultados de las simulaciones, con la siguiente nomenclatura (dond
    - escenarioS2.xlsx &rarr; Series temporales S2 de las 500 simulaciones
    
 #### Jupyter Notebooks
+
+Contiene el código en formato Jupyter Notebook necesario para replicar todos los resultados:
+
+  - 01. MODELO &rarr; computación del modelo que reproduce fielmente el pseudocódigo
+  - 02. SIMULACIÓN &rarr; código con el que se pueden replicar las simulaciones realizadas u otras nuevas
+  - 03. ANALISIS &rarr; código para elaborar los gráficos y los estadísticos descriptivos
+  
