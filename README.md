@@ -3,7 +3,7 @@
 
 Trabajo Fin de Máster. Máster en Economía, Universidad de Zaragoza, Curso 2017 -2018
 
-<p align="center"> #Resumen </p>
+<p align="center"> # Resumen </p>
 
 El principal objetivo de esta tesina será introducir el estudio de la dinámi-
 ca industrial desde la perspectiva de la Economíaa evolutiva empleando mode-
