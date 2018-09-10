@@ -2,7 +2,7 @@
 ## Innovación precios y dinámica industrial. Un modelo computacional de dos sectores.
 
 ### Máster en Economía, Universidad de Zaragoza, Curso 2017 -2018
-### Directores: Isable Almudí, Francisco Fatás
+### Directores: Isabel Almudí y Francisco Fatás
 
 <p align="center"> <b> Resumen:</b><br> </p>
 
@@ -34,13 +34,13 @@ Este repositorio contiene los códigos de Python así como los resultados de las
 
 #### Datos Simulaciones: 
 
-Contiene los resultados de las simulaciones, con la siguiente nomenclatura (donde escenario, puede tomar los valores: base,    markI y markII:
-  
+Los datos de las simulaciones se pueden descargar en este [enlace](). Los archivos contenidos son:
+
    - escernario.xlsx &rarr; Series temporales medias S1 y S2 
    - escenarioS1.xlsx &rarr; Series temporales S1 de las 500 simulaciones
    - escenarioS2.xlsx &rarr; Series temporales S2 de las 500 simulaciones
    
-#### Jupyter Notebooks
+#### Jupyter Notebooks / Código
 
 Contiene el código en formato Jupyter Notebook necesario para replicar todos los resultados:
 
