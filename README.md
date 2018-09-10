@@ -42,7 +42,7 @@ Los datos de las simulaciones se pueden descargar en este [enlace](https://drive
    
 #### Jupyter Notebooks / Código
 
-Contiene el código en formato Jupyter Notebook necesario para replicar todos los resultados:
+Contiene el código en formato [Jupyter Notebook](http://jupyter.org) necesario para replicar todos los resultados. Las libretas pueden abrirse y consultarse sin necesidad de tener Python instalado. Sin embargo para ejecutarlas será necesario instalar una [distribución](https://www.anaconda.com/download/#macos) de Python
 
   - 01. MODELO &rarr; computación del modelo que reproduce fielmente el pseudocódigo
   - 02. SIMULACIÓN &rarr; código con el que se pueden replicar las simulaciones realizadas u otras nuevas
