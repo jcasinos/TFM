@@ -45,6 +45,6 @@ Los datos de las simulaciones se pueden descargar en este [enlace](https://drive
 Contiene el código en formato [Jupyter Notebook](http://jupyter.org) necesario para replicar todos los resultados. Las libretas pueden abrirse y consultarse sin necesidad de tener Python instalado. Sin embargo para ejecutarlas será necesario instalar una [distribución](https://www.anaconda.com/download/#macos) de Python
 
   - 01. [MODELO](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Modelo.ipynb) &rarr; computación del modelo que reproduce fielmente el pseudocódigo
-  - 02. [SIMULACIÓN](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/02.%20SIMULACION.ipynb) &rarr; código con el que se pueden replicar las simulaciones realizadas u otras nuevas
-  - 03. [ANALISIS](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/03.%20ANALISIS.ipynb) &rarr; código para elaborar los gráficos y los estadísticos descriptivos
+  - 02. [SIMULACIÓN](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Simulación.ipynb) &rarr; código con el que se pueden replicar las simulaciones realizadas u otras nuevas
+  - 03. [ANALISIS](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Analisis.ipynb) &rarr; código para elaborar los gráficos y los estadísticos descriptivos
   
