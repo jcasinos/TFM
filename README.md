@@ -34,7 +34,7 @@ Este repositorio contiene los códigos de Python así como los resultados de las
 
 #### Datos Simulaciones: 
 
-Los datos de las simulaciones se pueden descargar en este [enlace](https://drive.google.com/drive/folders/1wuXc3dq6gPAJcy20Yj-JGxQich2ndcQv?usp=sharing). Los archivos contenidos son:
+Los datos de las simulaciones se pueden descargar en este [enlace](https://drive.google.com/drive/folders/1vlIxDurlRA9VzlUvJooVt30m-960fuEK?usp=sharing). Los archivos contenidos (tener en cuenta que escenario puede ser base, markI o markII):
 
    - escernario.xlsx &rarr; Series temporales medias S1 y S2 
    - escenarioS1.xlsx &rarr; Series temporales S1 de las 500 simulaciones
