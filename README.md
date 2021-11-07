@@ -1,8 +1,8 @@
-# Trabajo Fin de Máster; Jorge Casinos Buj
-## Innovación precios y dinámica industrial. Un modelo computacional de dos sectores.
+# Master Thesis; Jorge Casinos Buj
+## Price innovation and industrial dynamics. A computational model of two sectors..
 
-### Máster en Economía, Universidad de Zaragoza, Curso 2017 -2018
-### Directores: Isabel Almudí y Francisco Fatás
+### Máster en Economía, Universidad de Zaragoza,  2017 -2018
+### Directors: Isabel Almudí y Francisco Fatás
 
 <p align="center"> <b> Resumen:</b><br> </p>
 
@@ -28,23 +28,23 @@ emergent pricing dynamics. The model is able to replicate the stylized facts
 of diferent technological regimes as emergent properties.
 
 
-### Conteidos repositorio:
+### Repository content:
 
-Este repositorio contiene los códigos de Python así como los resultados de las simulaciones que se presentan en el TFM. El repositorio se organiza en las siguientes carpetas:
 
-#### Datos Simulaciones: 
+This repository contains the Python codes as well as the results of the simulations presented in the master thesis. The repository is organised in the following folders:
 
-Los datos de las simulaciones se pueden descargar en este [enlace](https://drive.google.com/drive/folders/1vlIxDurlRA9VzlUvJooVt30m-960fuEK?usp=sharing). Los archivos contenidos (tener en cuenta que escenario puede ser base, markI o markII):
+#### Simulation Data: 
+The simulation data can be downloaded from this [link](https://drive.google.com/drive/folders/1vlIxDurlRA9VzlUvJooVt30m-960fuEK?usp=sharing). The files contained (note that scenario can be base, markI or markII):
 
-   - escernario.xlsx &rarr; Series temporales medias S1 y S2 
-   - escenarioS1.xlsx &rarr; Series temporales S1 de las 500 simulaciones
-   - escenarioS2.xlsx &rarr; Series temporales S2 de las 500 simulaciones
+   - escernario.xlsx &rarr; Average time series S1 and S2. 
+   - escenarioS1.xlsx &rarr; Time series S1 of the 500 simulations
+   - escenarioS2.xlsx &rarr; Time series S2 out of 500 simulations
    
-#### Jupyter Notebooks / Código
+#### Jupyter Notebooks / Code
 
-Contiene el código en formato [Jupyter Notebook](http://jupyter.org) necesario para replicar todos los resultados. Las libretas pueden abrirse y consultarse sin necesidad de tener Python instalado. Sin embargo para ejecutarlas será necesario instalar una [distribución](https://www.anaconda.com/download/#macos) de Python
+It contains the code in [Jupyter Notebook](http://jupyter.org) ormat needed to replicate all the results. The notebooks can be opened and consulted without having Python installed. However, to run them you will need to install a Python [distribution](https://www.anaconda.com/download/#macos)
 
-  - 01. [MODELO](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Modelo.ipynb) &rarr; computación del modelo que reproduce fielmente el pseudocódigo
-  - 02. [SIMULACIÓN](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Simulación.ipynb) &rarr; código con el que se pueden replicar las simulaciones realizadas u otras nuevas
-  - 03. [ANALISIS](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Analisis.ipynb) &rarr; código para elaborar los gráficos y los estadísticos descriptivos
+  - 01. [MODEL](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Modelo.ipynb) &rarr; computation of the model that faithfully reproduces the pseudocode
+  - 02. [SIMULATION](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Simulación.ipynb) &rarr; ccode with which you can replicate your simulations or new ones.
+  - 03. [ANALISIS](https://github.com/jcasinos/TFM/blob/master/Jupyter%20Notebooks/Analisis.ipynb) &rarr; code to compute the graphs and descriptive statistics
   
